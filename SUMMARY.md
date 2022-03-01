@@ -2,28 +2,49 @@
 
 * [Welcome](README.md)
 
-## General
+## The Metamerch
 
-* [Creating your first project](general/creating-your-first-project.md)
-* [Creating your first task](general/creating-your-first-task.md)
-* [Advanced permissions](general/advanced-permissions.md)
+* [What is Metamerch?](the-metamerch/what-is-metamerch.md)
+* [What is MMX?](the-metamerch/what-is-mmx.md)
+* [What is MMX used for?](the-metamerch/what-is-mmx-used-for.md)
+* [Buying & Selling MMX](the-metamerch/buying-and-selling-mmx.md)
+* [MMX - FAQ](the-metamerch/mmx-faq.md)
 
-## Fundamentals
+## The Metamerch - Lands
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [What is a land?](the-metamerch-lands/what-is-a-land.md)
+* [What can i do with a land?](the-metamerch-lands/what-can-i-do-with-a-land.md)
+* [Stores vs Lands](the-metamerch-lands/stores-vs-lands.md)
+* [Land Mint & ownership](the-metamerch-lands/land-mint-and-ownership.md)
+* [Land - FAQ](the-metamerch-lands/land-faq.md)
 
-## Use Cases
+## The Metamerch - Staking
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [What is staking?](the-metamerch-staking/what-is-staking.md)
+* [Stake MMX/ONE](the-metamerch-staking/stake-mmx-one.md)
+* [Stake MMX/USDT](the-metamerch-staking/stake-mmx-usdt.md)
+* [Withdrawing](the-metamerch-staking/withdrawing.md)
+* [Claiming Rewards](the-metamerch-staking/claiming-rewards.md)
+* [Staking - FAQ](the-metamerch-staking/staking-faq.md)
 
-## Extras
+## The Metamerch - Marketplace
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [About The Marketplace](the-metamerch-marketplace/about-the-marketplace.md)
+* [How To Buy & Sell NFTs](the-metamerch-marketplace/how-to-buy-and-sell-nfts.md)
+* [Marketplace - FAQ](the-metamerch-marketplace/marketplace-faq.md)
+
+## The Metamerch - Contracts & Wallets
+
+* [Smart Contracts](the-metamerch-contracts-and-wallets/smart-contracts.md)
+* [Wallets & Transactions](the-metamerch-contracts-and-wallets/wallets-and-transactions.md)
+
+## The Team & Creators
+
+* [Meet The Team](the-team-and-creators/meet-the-team.md)
+
+## Links & resources
+
+* [Social Networks](links-and-resources/social-networks.md)
+* [Whitepaper](links-and-resources/whitepaper.md)
+* [Roadmap](links-and-resources/roadmap.md)
+* [Contacts](links-and-resources/contacts.md)
