@@ -1,12 +1,12 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Welcome](README.md)
 
-## Guides
+## General
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Creating your first project](general/creating-your-first-project.md)
+* [Creating your first task](general/creating-your-first-task.md)
+* [Advanced permissions](general/advanced-permissions.md)
 
 ## Fundamentals
 
