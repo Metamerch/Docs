@@ -40,7 +40,7 @@
 
 ## The Team & Creators
 
-* [Meet the team](the-team-and-creators/meet-the-team.md)
+* [Meet our team](the-team-and-creators/meet-our-team.md)
 * [Join us today!](the-team-and-creators/join-us-today.md)
 
 ## Links & resources
