@@ -1,4 +1,8 @@
-# Smart contracts
+---
+description: On Harmony Mainnet
+---
+
+# Smart Contracts
 
 **MMX Contract Address:** 0xc5c175a9cc918602c44e8bc8fcadb456e1f7813c
 

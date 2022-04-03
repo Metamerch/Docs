@@ -42,7 +42,7 @@
 
 ## The Metamerch - Contracts & Wallets
 
-* [Smart contracts](the-metamerch-contracts-and-wallets/smart-contracts.md)
+* [Smart Contracts](the-metamerch-contracts-and-wallets/smart-contracts.md)
 * [Wallets & transactions](the-metamerch-contracts-and-wallets/wallets-and-transactions.md)
 
 ## The Team & Creators
